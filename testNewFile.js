@@ -3,3 +3,4 @@ var testFun = () => {
 console.log('Hello');
 }
 
+testFun();
